@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "pipa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "test": "NULLa" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 106.98114374069462, -6.225123617083975 ], [ 106.991678777875151, -6.228142428907637 ], [ 107.003199549528716, -6.221611938023797 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "test": "NULLaaa" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 107.000119129300487, -6.216252006826682 ], [ 106.990569826592989, -6.217052916086021 ], [ 106.986072413059773, -6.220872637169022 ], [ 106.982437517190462, -6.216806482467763 ] ] ] } }
+]
+}
