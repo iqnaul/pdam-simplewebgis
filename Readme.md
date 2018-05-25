@@ -1,8 +1,8 @@
-#PDAM Simple WebGIS Template
+# PDAM Simple WebGIS Template
 
-##Ini adalah template webmap sederhana untuk menampilkan data spasial anda kedalam web.
+## Ini adalah template webmap sederhana untuk menampilkan data spasial anda kedalam web.
 
-##Petunjuk
+## Petunjuk
 Data yang didukung adalah berformat geoJSON, silahkan konversi data anda terlebih dulu, atau jika data ada didalam database silahkan gunakan fungsi PHP
 Untuk kustomisasi silahkan modifikasi assets/js/config.js
 
